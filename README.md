@@ -1,3 +1,2 @@
-# sparkar_bless
-
-This is a simple instagram filter that includes a word filter in different position. User may tap to change it
+## 🧧 sparkar_bless
+* A simple instagram word filter that applies to a face mask on the user's face
