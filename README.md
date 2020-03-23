@@ -1,2 +1,2 @@
 ## 🧧 sparkar_bless
-* A simple instagram word filter that applies to a face mask on the user's face
+* A augemnted reality instagram filter that applies a face mask to the user's face, built with Spark AR Studio.
